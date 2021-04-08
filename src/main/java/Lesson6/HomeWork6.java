@@ -15,7 +15,7 @@ public class HomeWork6 {
         Cat cat3=new Cat("Сильвестр",2007,"Серый");
 
 
-        Animal[] animals=new Animal[6];
+        Animal[] animals=new Animal[12];
         animals[0]=dog1;
         animals[1]=dog2;
         animals[2]=dog3;
